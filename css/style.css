@@ -15,8 +15,8 @@
   --cpf-gray-100: #F4F5F6;
   --cpf-white: #FFFFFF;
 
-  --font-heading: 'Barlow Condensed', Arial Narrow, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-heading: 'Hind', -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-body: 'Hind', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 
   --radius-sm: 6px;
   --radius-md: 10px;
@@ -321,32 +321,6 @@ h2.h2 {
 }
 .field textarea { resize: vertical; min-height: 84px; }
 
-.trust-strip {
-  margin-top: 64px;
-  border-top: 1px solid var(--cpf-gray-200);
-  padding: 28px 0;
-}
-.trust-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-  text-align: center;
-}
-.trust-grid .stat b {
-  display: block;
-  font-family: var(--font-heading);
-  font-size: 26px;
-  color: var(--cpf-black);
-}
-.trust-grid .stat span {
-  font-size: 13px;
-  color: var(--cpf-gray-500);
-  font-weight: 600;
-}
-.trust-grid .stat:not(:last-child) {
-  border-right: 1px solid var(--cpf-gray-200);
-}
-
 /* ==========================================================================
    Benefit cards / icon grid
    ========================================================================== */
@@ -408,41 +382,6 @@ h2.h2 {
 /* ==========================================================================
    Comparison table
    ========================================================================== */
-
-.compare-wrap {
-  overflow-x: auto;
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
-}
-table.compare {
-  width: 100%;
-  border-collapse: collapse;
-  min-width: 640px;
-  background: var(--cpf-gray-900);
-  color: var(--cpf-white);
-}
-table.compare th, table.compare td {
-  padding: 18px 22px;
-  text-align: left;
-  font-size: 14.5px;
-}
-table.compare thead th {
-  font-family: var(--font-heading);
-  font-size: 16px;
-  font-weight: 700;
-  border-bottom: 2px solid rgba(255,255,255,0.12);
-}
-table.compare thead th:first-child { color: var(--cpf-gray-300); }
-table.compare thead th.col-old { color: var(--cpf-gray-300); }
-table.compare thead th.col-cpf { color: var(--cpf-black); background: var(--cpf-yellow); }
-table.compare tbody td.col-cpf {
-  background: rgba(247, 181, 0, 0.12);
-  color: var(--cpf-white);
-  font-weight: 600;
-  border-left: 3px solid var(--cpf-yellow);
-}
-table.compare tbody tr:not(:last-child) td { border-bottom: 1px solid rgba(255,255,255,0.08); }
-table.compare tbody td:first-child { color: var(--cpf-gray-300); font-weight: 700; }
 
 /* ==========================================================================
    Applications grid (Section 4)
@@ -538,9 +477,8 @@ table.compare tbody td:first-child { color: var(--cpf-gray-300); font-weight: 70
 .proven .container { position: relative; z-index: 1; }
 .proven-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 56px;
-  align-items: center;
+  grid-template-columns: 1fr;
+  max-width: 680px;
 }
 .check-list { margin-top: 26px; }
 .check-list li {
@@ -562,28 +500,6 @@ table.compare tbody td:first-child { color: var(--cpf-gray-300); font-weight: 70
   font-weight: 900;
   margin-top: 1px;
 }
-.stat-card {
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.14);
-  border-radius: var(--radius-lg);
-  padding: 40px;
-  text-align: center;
-}
-.stat-card .big {
-  font-family: var(--font-heading);
-  font-size: clamp(48px, 6vw, 72px);
-  color: var(--cpf-yellow);
-  line-height: 1;
-}
-.stat-card .big-label {
-  margin-top: 10px;
-  font-size: 14px;
-  letter-spacing: 0.4px;
-  color: var(--cpf-gray-300);
-  text-transform: uppercase;
-  font-weight: 700;
-}
-
 /* ==========================================================================
    Audience section (Section 6)
    ========================================================================== */
@@ -672,57 +588,6 @@ table.compare tbody td:first-child { color: var(--cpf-gray-300); font-weight: 70
 .final-form .form-sub { font-size: 14px; color: var(--cpf-gray-500); margin-bottom: 20px; }
 
 /* ==========================================================================
-   FAQ
-   ========================================================================== */
-
-.faq-list { max-width: 800px; margin: 0 auto; }
-.faq-item {
-  border-bottom: 1px solid var(--cpf-gray-200);
-}
-.faq-q {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 20px;
-  background: none;
-  border: none;
-  padding: 22px 4px;
-  text-align: left;
-  font-size: 16.5px;
-  font-weight: 700;
-  color: var(--cpf-black);
-}
-.faq-q .plus {
-  flex: none;
-  width: 26px; height: 26px;
-  border-radius: 50%;
-  border: 1.5px solid var(--cpf-gray-300);
-  display: flex; align-items: center; justify-content: center;
-  font-size: 16px;
-  color: var(--cpf-gray-700);
-  transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
-}
-.faq-item.open .faq-q .plus {
-  transform: rotate(45deg);
-  background: var(--cpf-yellow);
-  border-color: var(--cpf-yellow);
-  color: var(--cpf-black);
-}
-.faq-a {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.25s ease;
-}
-.faq-a p {
-  padding: 0 4px 22px;
-  margin: 0;
-  font-size: 14.5px;
-  color: var(--cpf-gray-700);
-  max-width: 700px;
-}
-
-/* ==========================================================================
    Footer
    ========================================================================== */
 
@@ -808,8 +673,6 @@ table.compare tbody td:first-child { color: var(--cpf-gray-300); font-weight: 70
   .section { padding: 64px 0; }
   .grid-4, .grid-3, .grid-2, .app-grid { grid-template-columns: 1fr; }
   .form-row { grid-template-columns: 1fr; }
-  .trust-grid { grid-template-columns: 1fr; gap: 18px; }
-  .trust-grid .stat:not(:last-child) { border-right: none; border-bottom: 1px solid var(--cpf-gray-200); padding-bottom: 18px; }
   .cta-band-inner { flex-direction: column; align-items: flex-start; }
   .footer-grid { grid-template-columns: 1fr; }
   .footer-bottom { flex-direction: column; align-items: flex-start; }

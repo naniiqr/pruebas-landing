@@ -14,23 +14,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // FAQ accordion
-  document.querySelectorAll('.faq-item').forEach(function (item) {
-    var q = item.querySelector('.faq-q');
-    var a = item.querySelector('.faq-a');
-    q.addEventListener('click', function () {
-      var isOpen = item.classList.contains('open');
-      document.querySelectorAll('.faq-item.open').forEach(function (openItem) {
-        if (openItem !== item) {
-          openItem.classList.remove('open');
-          openItem.querySelector('.faq-a').style.maxHeight = null;
-        }
-      });
-      item.classList.toggle('open', !isOpen);
-      a.style.maxHeight = !isOpen ? a.scrollHeight + 'px' : null;
-    });
-  });
-
   // Lead forms: front-end only placeholder submit
   document.querySelectorAll('form[data-lead-form]').forEach(function (form) {
     form.addEventListener('submit', function (e) {
