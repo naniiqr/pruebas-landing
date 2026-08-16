@@ -673,7 +673,7 @@ h2.h2 {
   .final-grid { grid-template-columns: 1fr; }
   .footer-cta-inner { grid-template-columns: 1fr; text-align: center; }
   .footer-cta-text { align-items: center; }
-  .footer-cta-buttons { align-items: center; }
+  .footer-cta-buttons { align-items: center; justify-self: center; }
   .main-nav { display: none; }
   .main-nav.open {
     display: block;
@@ -711,7 +711,7 @@ h2.h2 {
   .audience-card { flex-direction: column; align-items: center; text-align: center; }
   .footer-cta-inner { grid-template-columns: 1fr; text-align: center; }
   .footer-cta-text { align-items: center; }
-  .footer-cta-buttons { align-items: center; }
-  .footer-bottom-inner { flex-direction: column; align-items: flex-start; }
+  .footer-cta-buttons { align-items: center; justify-self: center; }
+  .footer-bottom-inner { flex-direction: column; align-items: center; text-align: center; }
   .header-cta a.btn { display: none; }
 }
