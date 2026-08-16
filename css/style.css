@@ -50,7 +50,7 @@ button { font-family: inherit; cursor: pointer; }
   width: 100%;
   max-width: var(--container);
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 28px;
 }
 
 h1, h2, h3, h4 {
@@ -163,7 +163,7 @@ h2.h2 {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  padding: 12px 0;
+  padding: 16px 0;
 }
 
 .logo {
@@ -475,12 +475,19 @@ h2.h2 {
   background-image: linear-gradient(100deg, rgba(19,19,19,0.97) 30%, rgba(19,19,19,0.55) 100%);
 }
 .proven .container { position: relative; z-index: 1; }
+.proven { padding: 100px 0; }
 .proven-grid {
   display: grid;
   grid-template-columns: 1fr;
-  max-width: 680px;
+  max-width: 800px;
 }
-.check-list { margin-top: 26px; }
+.proven-grid .lede { max-width: 680px; }
+.check-list {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 28px;
+}
 .check-list li {
   display: flex;
   align-items: flex-start;
@@ -535,15 +542,10 @@ h2.h2 {
   background: linear-gradient(120deg, var(--cpf-yellow) 0%, #ffcf3d 100%);
   color: var(--cpf-black);
 }
-.cta-band-inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 40px;
-  flex-wrap: wrap;
-}
+.cta-band-inner { max-width: 780px; }
 .cta-band h2 { font-size: clamp(26px, 3.4vw, 36px); max-width: 620px; }
-.cta-band p { font-size: 16px; margin-top: 12px; max-width: 560px; color: rgba(19,19,19,0.75); }
+.cta-band p { font-size: 16px; margin-top: 14px; max-width: 640px; color: rgba(19,19,19,0.75); }
+.cta-band .btn { margin-top: 32px; }
 
 /* ==========================================================================
    Final CTA
@@ -595,13 +597,9 @@ h2.h2 {
 
 .footer-cta {
   position: relative;
-  overflow: hidden;
+  background: var(--cpf-black-soft);
+  border-top: 3px solid var(--cpf-yellow);
   padding: 56px 0;
-}
-.footer-cta .bg-image::after {
-  content: "";
-  position: absolute; inset: 0;
-  background: rgba(19,19,19,0.88);
 }
 .footer-cta-inner {
   position: relative;
@@ -627,8 +625,14 @@ h2.h2 {
 }
 .footer-cta-contact a { color: var(--cpf-white); }
 .footer-cta-contact a:hover { color: var(--cpf-yellow); }
-.footer-cta-logo { justify-self: center; }
-.footer-cta-logo img { height: 76px; }
+.footer-cta-logo {
+  justify-self: center;
+  background: var(--cpf-white);
+  border-radius: var(--radius-md);
+  padding: 14px 20px;
+  box-shadow: var(--shadow-md);
+}
+.footer-cta-logo img { height: 64px; display: block; }
 .footer-cta-buttons {
   display: flex;
   flex-direction: column;
@@ -696,7 +700,14 @@ h2.h2 {
   .section { padding: 64px 0; }
   .grid-4, .grid-3, .grid-2, .app-grid { grid-template-columns: 1fr; }
   .form-row { grid-template-columns: 1fr; }
-  .cta-band-inner { flex-direction: column; align-items: flex-start; }
+  .proven { padding: 64px 0; text-align: center; }
+  .proven-grid { margin: 0 auto; }
+  .proven-grid .lede { margin-left: auto; margin-right: auto; }
+  .check-list { grid-template-columns: 1fr; text-align: left; max-width: 340px; margin-left: auto; margin-right: auto; }
+  .cta-band-inner { margin: 0 auto; text-align: center; }
+  .cta-band h2, .cta-band p { margin-left: auto; margin-right: auto; }
+  .audience-wrap > div:last-child { text-align: center; }
+  .audience-card { flex-direction: column; align-items: center; text-align: center; }
   .footer-cta-inner { grid-template-columns: 1fr; text-align: center; }
   .footer-cta-text { align-items: center; }
   .footer-cta-buttons { align-items: center; }
