@@ -651,6 +651,7 @@ h2.h2 {
 }
 .footer-bottom-link { color: var(--cpf-black); text-decoration: underline; }
 .footer-bottom-link:hover { color: var(--cpf-black-soft); }
+.footer-cert-badge { height: 44px; width: auto; }
 
 /* ==========================================================================
    Responsive
