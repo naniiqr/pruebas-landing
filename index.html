@@ -42,8 +42,11 @@
 <header class="site-header" id="site-header">
   <div class="container header-inner">
     <a href="#home" class="logo">
-      <span class="logo-mark">CH</span>
-      <span class="logo-text">Chapin <strong>Handyman</strong> <small>LLC</small></span>
+      <!-- Logo image is embedded once as a CSS background (see .logo-img in
+           style.css) as a data URI, so it works without a separate image
+           file; swap for a normal img/logo/*.jpg once this migrates to
+           WordPress (or once binary uploads are available in this repo). -->
+      <span class="logo-img" role="img" aria-label="Chapin Handyman LLC"></span>
     </a>
     <nav class="main-nav">
       <ul>
@@ -403,9 +406,8 @@
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
-      <a href="#home" class="logo logo-footer">
-        <span class="logo-mark">CH</span>
-        <span class="logo-text">Chapin <strong>Handyman</strong> <small>LLC</small></span>
+      <a href="#home" class="logo-footer-badge">
+        <span class="logo-img" role="img" aria-label="Chapin Handyman LLC"></span>
       </a>
       <p>Licensed Maryland contractor providing full-service renovations and handyman work — one team, every trade, done right.</p>
     </div>
