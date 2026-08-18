@@ -1,0 +1,1954 @@
+{
+  "content": [
+    {
+      "id": "b889148",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column"
+      },
+      "elements": [
+        {
+          "id": "7f9428c",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full"
+          },
+          "elements": [
+            {
+              "id": "189a5f2",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "5a33752",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Custom Poly Solutions for <span>Data Centers</span>",
+                    "header_size": "h1"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6174c27",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Data centers run on servers. But servers run on systems that most people never see—cooling loops, chemical containment, backup power, water treatment. We build those systems. In polypropylene and HDPE. Custom-fabricated. You're not buying plastic. You're buying uptime protection.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b0bb1b5",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "boxed",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "977372f",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Speak with a Data Center Specialist",
+                        "header_size": "h3"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "bbd1afe",
+                      "elType": "widget",
+                      "widgetType": "form",
+                      "settings": {
+                        "form_name": "Data Center Specialist",
+                        "form_fields": [
+                          {
+                            "custom_id": "first_name",
+                            "placeholder": "First Name",
+                            "width": "50",
+                            "_id": "773f54",
+                            "required": "true"
+                          },
+                          {
+                            "custom_id": "last_name",
+                            "placeholder": "Last Name",
+                            "width": "50",
+                            "_id": "402b37",
+                            "required": "true"
+                          },
+                          {
+                            "custom_id": "email",
+                            "placeholder": "Work Email",
+                            "width": "50",
+                            "_id": "b435df",
+                            "required": "true",
+                            "field_type": "email"
+                          },
+                          {
+                            "custom_id": "phone",
+                            "placeholder": "Phone",
+                            "width": "50",
+                            "_id": "3e83fa",
+                            "field_type": "tel"
+                          }
+                        ],
+                        "button_text": "Submit",
+                        "success_message": "The form was sent successfully.",
+                        "error_message": "An error occurred."
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "83fe5ee",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "18c75cd",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Custom-fabricated polypropylene DEF/Urea tank array ready for shipment",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7896f86",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F9FAFB"
+      },
+      "elements": [
+        {
+          "id": "8c1544a",
+          "elType": "container",
+          "settings": {
+            "content_width": "boxed",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "e4c9208",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "The Hidden Cost of the Wrong Material",
+                "header_size": "p",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                },
+                "_css_classes": "eyebrow-text"
+              },
+              "elements": []
+            },
+            {
+              "id": "6bd5ea4",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Data Centers Are Scaling Fast. Your Materials Need to Keep Up.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "2067dcb",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {},
+              "elements": []
+            },
+            {
+              "id": "888f96b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Hyperscale expansion. AI-driven power loads. Increasingly complex cooling systems. The demands on data center infrastructure have never been higher—and the materials holding it all together are often an afterthought.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "833df08",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Steel corrodes. Fiberglass cracks. Off-the-shelf components don't fit. And when your cooling system fails or a containment unit leaks, the cost isn't just a repair order—it's downtime. There's a better way to build.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        }
+      ]
+    },
+    {
+      "id": "6555c40",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column"
+      },
+      "elements": [
+        {
+          "id": "5b5c480",
+          "elType": "container",
+          "settings": {
+            "content_width": "boxed",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "3d46c00",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "The Benefits of Plastic in Data Center Containment",
+                "header_size": "p",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                },
+                "_css_classes": "eyebrow-text"
+              },
+              "elements": []
+            },
+            {
+              "id": "cecb8b7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Engineered for the Demands of Modern Data Centers",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "7bb75fe",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {},
+              "elements": []
+            },
+            {
+              "id": "bdddbde",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Polypropylene (PP) and High-Density Polyethylene (HDPE) aren't new materials, but their application in data center infrastructure is one of the fastest-growing areas in custom fabrication. Here's why engineers, developers, and procurement teams are specifying them:</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "f820ead",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "flex_gap": {
+              "unit": "px",
+              "size": 22,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "d0ab373",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "5e8f024",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "abd3710",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Zero Corrosion",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d726680",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>No rust. No degradation. PP and HDPE hold up against chemicals, moisture, and time without the maintenance costs of metal.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "7475a8f",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "91c1638",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9793aad",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Chemical Compatibility",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "cf29d6e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>From cooling treatment chemicals to DEF/Urea systems, these materials are engineered to handle aggressive substances without compromise.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "3badfa6",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "5f627a6",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "102cf01",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Weldable & Fully Custom",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "8538058",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Every component is fabricated to your exact specifications — tanks, trays, enclosures, panels, raceways — welded with precision to fit your facility, not molded from a generic catalog.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "e2b54c0",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "837a7bf",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "187b22f",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Lightweight Strength",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "999744b",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>High performance without the weight penalty of metal. Easier to install, easier to integrate, and easier to reconfigure as your facility evolves.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        },
+        {
+          "id": "db31f37",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Talk to Our Engineering Team",
+            "link": {
+              "url": "#contact",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "ef5ce7a",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F9FAFB"
+      },
+      "elements": [
+        {
+          "id": "74233c7",
+          "elType": "container",
+          "settings": {
+            "content_width": "boxed",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "538e431",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "What We Build for Data Centers",
+                "header_size": "p",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                },
+                "_css_classes": "eyebrow-text"
+              },
+              "elements": []
+            },
+            {
+              "id": "eb35735",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "One Fabricator. Every Critical Application.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "cba742b",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {},
+              "elements": []
+            },
+            {
+              "id": "afa9c03",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>From the raised floor to the battery room, CPF fabricates custom PP and HDPE components across every phase of data center design and build-out. If it needs to be non-conductive, corrosion-proof, and built to your exact geometry — we make it.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "1f24a04",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "90f52d3",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "a735185",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Airflow Management & Containment",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d136fae",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "71c0ca6",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Airflow Management & Containment",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "dded0c2",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Where metal creates sharp edges and rigidity problems, custom plastic delivers — especially in legacy and non-standard layouts.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "a55d20c",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "Hot aisle / cold aisle containment panels",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "e4f665"
+                      },
+                      {
+                        "text": "Underfloor airflow baffles and return-air diverters",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "216c82"
+                      },
+                      {
+                        "text": "Custom blanking panels and aisle end caps",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "c28b5d"
+                      }
+                    ]
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "287e7fa",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>PP preferred — higher heat tolerance, stiffer under continuous load.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "2d604f0",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "e8cbc6a",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Drip Trays & Spill Containment",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "893806a",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5de907e",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Drip Trays & Spill Containment",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "c5ef24a",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Welded seams. Leak-tested before delivery. No corrosion. No compliance risk.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "046643f",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "CRAC / CRAH unit drip trays",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "522689"
+                      },
+                      {
+                        "text": "Condensate collection pans",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f2f181"
+                      },
+                      {
+                        "text": "Chemical spill containment for chiller and pump areas",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "20a1bf"
+                      }
+                    ]
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "757e8db",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>HDPE for impact-heavy zones. PP for chemical-intensive environments.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4fba0fd",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "7bb75fc",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Cable Management & Electrical Isolation",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "02c3eae",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "7d75c0c",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Cable Management & Electrical Isolation",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "61508e0",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Custom routing where standard metal trays don't fit — and where non-conductivity matters.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "331cefe",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "Underfloor cable troughs and overhead raceways",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "8aabd4"
+                      },
+                      {
+                        "text": "Power and fiber separation barriers",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "761714"
+                      },
+                      {
+                        "text": "Custom cable waterfalls and drop boxes",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "cf22a8"
+                      }
+                    ]
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b1c21d4",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>PP preferred — non-conductive, low static buildup, clean installs.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        },
+        {
+          "id": "a80bd18",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "57beb80",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "6835361",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Raised Floor & Access Components",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "fc359ca",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "a136ff8",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Raised Floor & Access Components",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2b884b2",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Retrofit-heavy facilities reorder these constantly. We fabricate to the exact footprint every time.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "7a541ab",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "Custom cut-out floor panels and removable access covers",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "534eae"
+                      },
+                      {
+                        "text": "Load-spreading plates and pedestal guards",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f6f3d5"
+                      },
+                      {
+                        "text": "Edge trims for saw-cut tiles and floor openings",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "b87195"
+                      }
+                    ]
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "fa8ba0c",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>HDPE for impact resistance. PP for load stability.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "3c4f8e2",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "bb9243a",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Battery Room & UPS Infrastructure",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "fc9a37e",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "a4c7b15",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Battery Room & UPS Infrastructure",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "e5a0306",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>High compliance requirements. High chemical risk. No room for error — which is exactly why metal doesn't belong here.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "8ba9a16",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "Acid containment trays and battery rack liners",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "84b8a5"
+                      },
+                      {
+                        "text": "Neutralization sump boxes",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "1084af"
+                      },
+                      {
+                        "text": "Ventilation ducting for battery and UPS rooms",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f4b6d6"
+                      }
+                    ]
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "7365667",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>PP only — acid-resistant, fully welded seams, zero metal inserts.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "b98ed4b",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "117451e",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "DEF / Urea Tanks for Generator Sets",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "dac393e",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "1916a17",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "DEF / Urea Tanks for Generator Sets",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "e1344fb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Already manufactured by CPF and deployed in data centers nationwide through major OEM gen-set platforms. CPF manufactures DEF/Urea tanks for major OEM gen-set platforms already running in data centers across the U.S. Proven. Deployed. Ready for your project.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "35795b5",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "See Our DEF Tank Capabilities →",
+                    "link": {
+                      "url": "#proven",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        },
+        {
+          "id": "0f2c07c",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "18bb902",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "6050254",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "alt": "Custom Enclosures & Equipment Guards",
+                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "478d6f8",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5290dbe",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Custom Enclosures & Equipment Guards",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "32c03cb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>If it needs to exist and doesn't come in a catalog — we build it.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "74bf0e6",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "Fan guards and pump splash shields",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "49b432"
+                      },
+                      {
+                        "text": "Custom sensor and monitoring enclosures",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "5ee0c6"
+                      },
+                      {
+                        "text": "Temporary retrofit housings and removable access panels",
+                        "selected_icon": {
+                          "value": "far fa-check-circle",
+                          "library": "fa-regular"
+                        },
+                        "_id": "355aff"
+                      }
+                    ]
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "75f91f8",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>Clear PP available where visibility into the enclosure is required.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        },
+        {
+          "id": "fc1a59b",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Get a Quote for Your Application",
+            "link": {
+              "url": "#contact",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "32ed709",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#131313"
+      },
+      "elements": [
+        {
+          "id": "d8c0a4f",
+          "elType": "container",
+          "settings": {
+            "content_width": "boxed",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "6f4f720",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Already Proven. Already Deployed.",
+                "header_size": "p",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                },
+                "_css_classes": "eyebrow-text"
+              },
+              "elements": []
+            },
+            {
+              "id": "4c3e076",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Products Are Already Inside Data Centers Across the U.S.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "e260b6e",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {},
+              "elements": []
+            },
+            {
+              "id": "7f3dd26",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Here's something most people don't know:</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "c75fe58",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Custom Plastic Fabrications currently manufactures DEF/Urea tanks for generator set (gen-set) platforms built by major OEMs across the country. Those generators are already installed and running in live data centers — from colocation facilities to hyperscale campuses.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "11c91df",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Every component we fabricate is welded to structural spec and leak-tested before delivery. Because in a data center, \"close enough\" isn't an option.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "1f1da56",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>When you specify CPF components, you're not testing an unproven vendor. You're working with a manufacturer that's already part of the backup power infrastructure keeping those facilities online.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "a98b5ae",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><strong>What that means for your project:</strong></p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "9afdc66",
+          "elType": "widget",
+          "widgetType": "icon-list",
+          "settings": {
+            "icon_list": [
+              {
+                "text": "Proven performance in mission-critical environments",
+                "selected_icon": {
+                  "value": "far fa-check-circle",
+                  "library": "fa-regular"
+                },
+                "_id": "a9a2c0"
+              },
+              {
+                "text": "Established integration with leading generator manufacturers",
+                "selected_icon": {
+                  "value": "far fa-check-circle",
+                  "library": "fa-regular"
+                },
+                "_id": "8e38b1"
+              },
+              {
+                "text": "A fabricator who understands the standards data centers demand",
+                "selected_icon": {
+                  "value": "far fa-check-circle",
+                  "library": "fa-regular"
+                },
+                "_id": "04a09d"
+              },
+              {
+                "text": "Ready for hyperscale, colocation, and edge deployments",
+                "selected_icon": {
+                  "value": "far fa-check-circle",
+                  "library": "fa-regular"
+                },
+                "_id": "a41dea"
+              }
+            ]
+          },
+          "elements": []
+        },
+        {
+          "id": "3abae54",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "See Our DEF Tank Capabilities →",
+            "link": {
+              "url": "#contact",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "8eb7d33",
+          "elType": "widget",
+          "widgetType": "image",
+          "settings": {
+            "image": {
+              "url": "",
+              "id": ""
+            },
+            "alt": "Data center background — used as section background image on the live site",
+            "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "5233bb9",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column"
+      },
+      "elements": [
+        {
+          "id": "e8580b9",
+          "elType": "container",
+          "settings": {
+            "content_width": "boxed",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "4e862b0",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Who We Work With",
+                "header_size": "p",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                },
+                "_css_classes": "eyebrow-text"
+              },
+              "elements": []
+            },
+            {
+              "id": "fdf7ebb",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Built for the People Who Build Data Centers",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "04d4bda",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {},
+              "elements": []
+            },
+            {
+              "id": "75c5f80",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Whether you're in design, procurement, construction, or equipment supply — if you're involved in bringing a data center to life, we can build a component for your scope.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "820cde4",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "flex_gap": {
+              "unit": "px",
+              "size": 28,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "6bb635e",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "2b63965",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "03dbeb6",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Developers & General Contractors",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2a7db89",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Need custom containment, tanks, or water management components that fit your facility design? We fabricate to your drawings, your specs, and your schedule.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "f2be6ac",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "deadec3",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "951c3bd",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "MEP Engineers & Designers",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0019005",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Specifying materials for cooling, chemical handling, or backup power systems? PP and HDPE offer performance advantages worth putting on your drawings.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "0fde089",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "4cd1864",
+                  "elType": "widget",
+                  "widgetType": "icon",
+                  "settings": {
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "view": "stacked",
+                    "shape": "rounded"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d49fd51",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Equipment Vendors & OEMs",
+                    "header_size": "h4"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "8483907",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Already building gen-sets, cooling units, or fluid handling systems for the data center market? Let's talk about integrating CPF-fabricated components into your product line.</p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        },
+        {
+          "id": "448723f",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Let's Discuss Your Project",
+            "link": {
+              "url": "#contact",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "df8b606",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F7B500"
+      },
+      "elements": [
+        {
+          "id": "d73e7b3",
+          "elType": "container",
+          "settings": {
+            "content_width": "boxed",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "0361aa8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "The Future of Data Center Infrastructure",
+                "header_size": "p",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 1.6,
+                  "sizes": []
+                },
+                "_css_classes": "eyebrow-text"
+              },
+              "elements": []
+            },
+            {
+              "id": "79ee928",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "AI Is Changing What Data Centers Demand. Material Selection Has to Keep Up.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "d3685d8",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {},
+              "elements": []
+            },
+            {
+              "id": "2f68a4b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>The surge in AI infrastructure isn't just about more servers—it's about more power, more cooling, more chemical systems, and more complexity at every level of the facility.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "4484d79",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>The facilities being designed and built today will run for decades. The materials you choose now will determine how much they cost to maintain, how reliably they perform, and how easily they can be reconfigured as demands evolve.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "fd161ef",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>PP and HDPE fabrication isn't an alternative to traditional materials—it's already part of the infrastructure powering today's most advanced facilities. The question isn't whether to use it. It's whether you're specifying it on your next project.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "a06d54b",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Start Your Custom Fabrication Project",
+            "link": {
+              "url": "#contact",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "6cffb6d",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#131313"
+      },
+      "elements": [
+        {
+          "id": "99ac1ad",
+          "elType": "widget",
+          "widgetType": "image",
+          "settings": {
+            "image": {
+              "url": "",
+              "id": ""
+            },
+            "alt": "Data center background — used as section background image on the live site",
+            "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+          },
+          "elements": []
+        },
+        {
+          "id": "6d4f44b",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full"
+          },
+          "elements": [
+            {
+              "id": "2230cc5",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "b771139",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Ready to Build Smarter Data Center Infrastructure?",
+                    "header_size": "h2"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "34bb1c4",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Tell us what you need. Our team will review your application, ask the right questions, and get you a quote built around your actual project — not a generic catalog.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b30f3aa",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p><em>Trusted by major OEM generator manufacturers. Deployed in data centers across the United States.</em></p>"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "d97eb78",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "f5b3710",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Request a Custom Quote",
+                    "header_size": "h3"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "7cf44f2",
+                  "elType": "widget",
+                  "widgetType": "form",
+                  "settings": {
+                    "form_name": "Request a Custom Quote",
+                    "form_fields": [
+                      {
+                        "custom_id": "first_name",
+                        "placeholder": "First Name",
+                        "width": "50",
+                        "_id": "2307a8",
+                        "required": "true"
+                      },
+                      {
+                        "custom_id": "last_name",
+                        "placeholder": "Last Name",
+                        "width": "50",
+                        "_id": "9f23d0",
+                        "required": "true"
+                      },
+                      {
+                        "custom_id": "email",
+                        "placeholder": "Email",
+                        "width": "50",
+                        "_id": "bdb42e",
+                        "required": "true",
+                        "field_type": "email"
+                      },
+                      {
+                        "custom_id": "phone",
+                        "placeholder": "Phone",
+                        "width": "50",
+                        "_id": "bc3b0a",
+                        "field_type": "tel"
+                      },
+                      {
+                        "custom_id": "message",
+                        "placeholder": "Tell me about your project.",
+                        "width": "100",
+                        "_id": "456713",
+                        "field_type": "textarea"
+                      }
+                    ],
+                    "button_text": "Request a Custom Quote",
+                    "success_message": "The form was sent successfully.",
+                    "error_message": "An error occurred."
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {},
+  "version": "0.4",
+  "title": "data-centers",
+  "type": "page"
+}
