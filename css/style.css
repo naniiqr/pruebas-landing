@@ -406,6 +406,45 @@ h2.h2 {
    Comparison table
    ========================================================================== */
 
+.video-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+.video-wrap video { width: 100%; display: block; aspect-ratio: 16/9; background: var(--cpf-black); }
+
+.compare-table {
+  border: 1px solid var(--cpf-gray-200);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+.compare-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.compare-row:not(:last-child) { border-bottom: 1px solid var(--cpf-gray-200); }
+.compare-cell {
+  padding: 16px 20px;
+  font-size: 14.5px;
+  color: var(--cpf-gray-700);
+}
+.compare-cell:not(:last-child) { border-right: 1px solid var(--cpf-gray-200); }
+.compare-head .compare-cell {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--cpf-black);
+  background: var(--cpf-gray-100);
+}
+.compare-cell--poly {
+  background: rgba(247, 181, 0, 0.08);
+  color: var(--cpf-black);
+  font-weight: 600;
+}
+.compare-head .compare-cell--poly { background: var(--cpf-yellow); }
+
 /* ==========================================================================
    Applications grid (Section 4)
    ========================================================================== */
@@ -757,6 +796,8 @@ ul.bullets li::before {
 
 @media (max-width: 640px) {
   .section { padding: 64px 0; }
+  .compare-row { grid-template-columns: 1fr; }
+  .compare-cell:not(:last-child) { border-right: none; border-bottom: 1px solid var(--cpf-gray-200); }
   .grid-4, .grid-3, .grid-2 { grid-template-columns: 1fr; }
   .app-card { flex-basis: 85vw; }
   .form-row { grid-template-columns: 1fr; }
