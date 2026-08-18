@@ -385,6 +385,23 @@ h2.h2 {
 
 .section-cta { margin-top: 48px; text-align: center; }
 
+.cta-photo-band {
+  position: relative;
+  margin-top: 56px;
+  padding: 56px 0;
+  overflow: hidden;
+}
+.cta-photo-band .bg-image::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(19,19,19,0.55), rgba(19,19,19,0.75));
+}
+.cta-photo-band .container {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
 /* ==========================================================================
    Comparison table
    ========================================================================== */
@@ -393,11 +410,21 @@ h2.h2 {
    Applications grid (Section 4)
    ========================================================================== */
 
-.app-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 28px 32px;
+.app-carousel {
+  position: relative;
 }
+.app-track {
+  display: flex;
+  gap: 24px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  padding: 6px 4px 28px;
+  margin: 0 -4px;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.app-track::-webkit-scrollbar { display: none; }
 .app-card {
   background: var(--cpf-white);
   border-radius: var(--radius-lg);
@@ -406,8 +433,29 @@ h2.h2 {
   display: flex;
   flex-direction: column;
   transition: box-shadow 0.2s ease;
+  flex: 0 0 320px;
+  scroll-snap-align: start;
 }
 .app-card:hover { box-shadow: var(--shadow-md); }
+.carousel-controls {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 4px;
+}
+.carousel-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1.5px solid var(--cpf-gray-200);
+  background: var(--cpf-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.carousel-btn:hover { border-color: var(--cpf-yellow); background: var(--cpf-gray-100); }
+.carousel-btn svg { width: 18px; height: 18px; stroke: var(--cpf-black); }
 .media-slot {
   aspect-ratio: 16/10;
   border: 1.5px dashed var(--cpf-gray-300);
@@ -677,7 +725,7 @@ ul.bullets li::before {
   .hero-grid { grid-template-columns: 1fr; }
   .hero-media { order: -1; }
   .grid-4 { grid-template-columns: repeat(2, 1fr); }
-  .app-grid { grid-template-columns: repeat(2, 1fr); }
+  .app-card { flex-basis: 280px; }
   .proven-grid { grid-template-columns: 1fr; }
   .audience-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; }
   .final-grid { grid-template-columns: 1fr; }
@@ -709,7 +757,8 @@ ul.bullets li::before {
 
 @media (max-width: 640px) {
   .section { padding: 64px 0; }
-  .grid-4, .grid-3, .grid-2, .app-grid { grid-template-columns: 1fr; }
+  .grid-4, .grid-3, .grid-2 { grid-template-columns: 1fr; }
+  .app-card { flex-basis: 85vw; }
   .form-row { grid-template-columns: 1fr; }
   .proven { padding: 64px 0; text-align: center; }
   .proven-grid { margin: 0 auto; }
