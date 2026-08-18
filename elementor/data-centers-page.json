@@ -1,7 +1,7 @@
 {
   "content": [
     {
-      "id": "b889148",
+      "id": "c4f5873",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -9,7 +9,7 @@
       },
       "elements": [
         {
-          "id": "7f9428c",
+          "id": "7bad35d",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -18,7 +18,7 @@
           },
           "elements": [
             {
-              "id": "189a5f2",
+              "id": "a482105",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -26,7 +26,7 @@
               },
               "elements": [
                 {
-                  "id": "5a33752",
+                  "id": "0d0aea1",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -36,7 +36,7 @@
                   "elements": []
                 },
                 {
-                  "id": "6174c27",
+                  "id": "2f496b0",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -45,7 +45,7 @@
                   "elements": []
                 },
                 {
-                  "id": "b0bb1b5",
+                  "id": "aa14d3d",
                   "elType": "container",
                   "settings": {
                     "content_width": "boxed",
@@ -53,7 +53,7 @@
                   },
                   "elements": [
                     {
-                      "id": "977372f",
+                      "id": "fecd366",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -63,7 +63,7 @@
                       "elements": []
                     },
                     {
-                      "id": "bbd1afe",
+                      "id": "3eb1df4",
                       "elType": "widget",
                       "widgetType": "form",
                       "settings": {
@@ -73,21 +73,21 @@
                             "custom_id": "first_name",
                             "placeholder": "First Name",
                             "width": "50",
-                            "_id": "773f54",
+                            "_id": "37444d",
                             "required": "true"
                           },
                           {
                             "custom_id": "last_name",
                             "placeholder": "Last Name",
                             "width": "50",
-                            "_id": "402b37",
+                            "_id": "73994a",
                             "required": "true"
                           },
                           {
                             "custom_id": "email",
                             "placeholder": "Work Email",
                             "width": "50",
-                            "_id": "b435df",
+                            "_id": "19597f",
                             "required": "true",
                             "field_type": "email"
                           },
@@ -95,7 +95,7 @@
                             "custom_id": "phone",
                             "placeholder": "Phone",
                             "width": "50",
-                            "_id": "3e83fa",
+                            "_id": "fe56bd",
                             "field_type": "tel"
                           }
                         ],
@@ -112,7 +112,7 @@
               "isInner": true
             },
             {
-              "id": "83fe5ee",
+              "id": "dcbddad",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -120,7 +120,7 @@
               },
               "elements": [
                 {
-                  "id": "18c75cd",
+                  "id": "8cb4101",
                   "elType": "widget",
                   "widgetType": "image",
                   "settings": {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "id": "7896f86",
+      "id": "1fd9e91",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -151,7 +151,7 @@
       },
       "elements": [
         {
-          "id": "8c1544a",
+          "id": "842d4af",
           "elType": "container",
           "settings": {
             "content_width": "boxed",
@@ -159,7 +159,7 @@
           },
           "elements": [
             {
-              "id": "e4c9208",
+              "id": "0c52b1d",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -177,7 +177,7 @@
               "elements": []
             },
             {
-              "id": "6bd5ea4",
+              "id": "11194fc",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -187,14 +187,14 @@
               "elements": []
             },
             {
-              "id": "2067dcb",
+              "id": "8c6c586",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {},
               "elements": []
             },
             {
-              "id": "888f96b",
+              "id": "d475383",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -203,7 +203,7 @@
               "elements": []
             },
             {
-              "id": "833df08",
+              "id": "27ae2b7",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "id": "6555c40",
+      "id": "dcabbb2",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -225,7 +225,7 @@
       },
       "elements": [
         {
-          "id": "5b5c480",
+          "id": "f8722ef",
           "elType": "container",
           "settings": {
             "content_width": "boxed",
@@ -233,7 +233,7 @@
           },
           "elements": [
             {
-              "id": "3d46c00",
+              "id": "3f304c4",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -251,7 +251,7 @@
               "elements": []
             },
             {
-              "id": "cecb8b7",
+              "id": "94341be",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -261,14 +261,14 @@
               "elements": []
             },
             {
-              "id": "7bb75fe",
+              "id": "f05bca8",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {},
               "elements": []
             },
             {
-              "id": "bdddbde",
+              "id": "eed06ef",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -280,7 +280,7 @@
           "isInner": true
         },
         {
-          "id": "f820ead",
+          "id": "1117388",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -294,7 +294,7 @@
           },
           "elements": [
             {
-              "id": "d0ab373",
+              "id": "a083848",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -302,7 +302,7 @@
               },
               "elements": [
                 {
-                  "id": "5e8f024",
+                  "id": "68c0166",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -316,7 +316,7 @@
                   "elements": []
                 },
                 {
-                  "id": "abd3710",
+                  "id": "b407279",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -326,7 +326,7 @@
                   "elements": []
                 },
                 {
-                  "id": "d726680",
+                  "id": "4e6cb46",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -338,7 +338,7 @@
               "isInner": true
             },
             {
-              "id": "7475a8f",
+              "id": "a98bad5",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -346,7 +346,7 @@
               },
               "elements": [
                 {
-                  "id": "91c1638",
+                  "id": "317e64b",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -360,7 +360,7 @@
                   "elements": []
                 },
                 {
-                  "id": "9793aad",
+                  "id": "5a4ece8",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -370,7 +370,7 @@
                   "elements": []
                 },
                 {
-                  "id": "cf29d6e",
+                  "id": "66babc2",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -382,7 +382,7 @@
               "isInner": true
             },
             {
-              "id": "3badfa6",
+              "id": "472563f",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -390,7 +390,7 @@
               },
               "elements": [
                 {
-                  "id": "5f627a6",
+                  "id": "8393ba6",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -404,7 +404,7 @@
                   "elements": []
                 },
                 {
-                  "id": "102cf01",
+                  "id": "7faae8b",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -414,7 +414,7 @@
                   "elements": []
                 },
                 {
-                  "id": "8538058",
+                  "id": "6aa1623",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -426,7 +426,7 @@
               "isInner": true
             },
             {
-              "id": "e2b54c0",
+              "id": "a381731",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -434,7 +434,7 @@
               },
               "elements": [
                 {
-                  "id": "837a7bf",
+                  "id": "2de4a89",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -448,7 +448,7 @@
                   "elements": []
                 },
                 {
-                  "id": "187b22f",
+                  "id": "baf2af5",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -458,7 +458,7 @@
                   "elements": []
                 },
                 {
-                  "id": "999744b",
+                  "id": "de584ff",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -472,7 +472,7 @@
           ]
         },
         {
-          "id": "db31f37",
+          "id": "9c058ff",
           "elType": "widget",
           "widgetType": "button",
           "settings": {
@@ -489,7 +489,48 @@
       ]
     },
     {
-      "id": "ef5ce7a",
+      "id": "f96a591",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#131313"
+      },
+      "elements": [
+        {
+          "id": "0e2b582",
+          "elType": "widget",
+          "widgetType": "image",
+          "settings": {
+            "image": {
+              "url": "",
+              "id": ""
+            },
+            "alt": "Data center manufacturing floor — used as section background image on the live site",
+            "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+          },
+          "elements": []
+        },
+        {
+          "id": "b301dc3",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Talk to Our Engineering Team",
+            "link": {
+              "url": "#contact",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "ee2c351",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -499,7 +540,7 @@
       },
       "elements": [
         {
-          "id": "74233c7",
+          "id": "f9f3e33",
           "elType": "container",
           "settings": {
             "content_width": "boxed",
@@ -507,7 +548,7 @@
           },
           "elements": [
             {
-              "id": "538e431",
+              "id": "0408c9e",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -525,7 +566,7 @@
               "elements": []
             },
             {
-              "id": "eb35735",
+              "id": "d92a221",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -535,14 +576,14 @@
               "elements": []
             },
             {
-              "id": "cba742b",
+              "id": "d7d8029",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {},
               "elements": []
             },
             {
-              "id": "afa9c03",
+              "id": "bc80302",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -554,21 +595,49 @@
           "isInner": true
         },
         {
-          "id": "1f24a04",
-          "elType": "container",
-          "isInner": true,
+          "id": "2d763ed",
+          "elType": "widget",
+          "widgetType": "nested-carousel",
           "settings": {
-            "flex_direction": "row",
-            "content_width": "full",
-            "flex_gap": {
-              "unit": "px",
-              "size": 24,
-              "sizes": []
-            }
+            "carousel_items": [
+              {
+                "slide_title": "Slide #1",
+                "_id": "235452"
+              },
+              {
+                "slide_title": "Slide #2",
+                "_id": "bdc150"
+              },
+              {
+                "slide_title": "Slide #3",
+                "_id": "787e87"
+              },
+              {
+                "slide_title": "Slide #4",
+                "_id": "13fa7f"
+              },
+              {
+                "slide_title": "Slide #5",
+                "_id": "9233b4"
+              },
+              {
+                "slide_title": "Slide #6",
+                "_id": "1d21da"
+              },
+              {
+                "slide_title": "Slide #7",
+                "_id": "a60dfe"
+              }
+            ],
+            "slides_to_show": "3",
+            "slides_to_show_tablet": "2",
+            "slides_to_show_mobile": "1",
+            "arrows": "yes",
+            "pagination": "bullets"
           },
           "elements": [
             {
-              "id": "90f52d3",
+              "id": "8480d0e",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -576,609 +645,111 @@
               },
               "elements": [
                 {
-                  "id": "a735185",
-                  "elType": "widget",
-                  "widgetType": "image",
+                  "id": "abdbe8a",
+                  "elType": "container",
                   "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
-                    },
-                    "alt": "Airflow Management & Containment",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                    "content_width": "boxed",
+                    "flex_direction": "column"
                   },
-                  "elements": []
-                },
-                {
-                  "id": "d136fae",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "71c0ca6",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "Airflow Management & Containment",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "dded0c2",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>Where metal creates sharp edges and rigidity problems, custom plastic delivers — especially in legacy and non-standard layouts.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "a55d20c",
-                  "elType": "widget",
-                  "widgetType": "icon-list",
-                  "settings": {
-                    "icon_list": [
-                      {
-                        "text": "Hot aisle / cold aisle containment panels",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
+                  "elements": [
+                    {
+                      "id": "a9a4ed8",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
                         },
-                        "_id": "e4f665"
+                        "alt": "Airflow Management & Containment",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
                       },
-                      {
-                        "text": "Underfloor airflow baffles and return-air diverters",
+                      "elements": []
+                    },
+                    {
+                      "id": "d1ae536",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
                         "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
                         },
-                        "_id": "216c82"
+                        "view": "stacked",
+                        "shape": "rounded"
                       },
-                      {
-                        "text": "Custom blanking panels and aisle end caps",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "c28b5d"
-                      }
-                    ]
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "287e7fa",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p><em>PP preferred — higher heat tolerance, stiffer under continuous load.</em></p>"
-                  },
-                  "elements": []
-                }
-              ],
-              "isInner": true
-            },
-            {
-              "id": "2d604f0",
-              "elType": "container",
-              "settings": {
-                "content_width": "boxed",
-                "flex_direction": "column"
-              },
-              "elements": [
-                {
-                  "id": "e8cbc6a",
-                  "elType": "widget",
-                  "widgetType": "image",
-                  "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
+                      "elements": []
                     },
-                    "alt": "Drip Trays & Spill Containment",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "893806a",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "5de907e",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "Drip Trays & Spill Containment",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "c5ef24a",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>Welded seams. Leak-tested before delivery. No corrosion. No compliance risk.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "046643f",
-                  "elType": "widget",
-                  "widgetType": "icon-list",
-                  "settings": {
-                    "icon_list": [
-                      {
-                        "text": "CRAC / CRAH unit drip trays",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "522689"
+                    {
+                      "id": "6434fa3",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Airflow Management & Containment",
+                        "header_size": "h4"
                       },
-                      {
-                        "text": "Condensate collection pans",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "f2f181"
+                      "elements": []
+                    },
+                    {
+                      "id": "1fe1720",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>Where metal creates sharp edges and rigidity problems, custom plastic delivers — especially in legacy and non-standard layouts.</p>"
                       },
-                      {
-                        "text": "Chemical spill containment for chiller and pump areas",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "20a1bf"
-                      }
-                    ]
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "757e8db",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p><em>HDPE for impact-heavy zones. PP for chemical-intensive environments.</em></p>"
-                  },
-                  "elements": []
-                }
-              ],
-              "isInner": true
-            },
-            {
-              "id": "4fba0fd",
-              "elType": "container",
-              "settings": {
-                "content_width": "boxed",
-                "flex_direction": "column"
-              },
-              "elements": [
-                {
-                  "id": "7bb75fc",
-                  "elType": "widget",
-                  "widgetType": "image",
-                  "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
+                      "elements": []
                     },
-                    "alt": "Cable Management & Electrical Isolation",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "02c3eae",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "7d75c0c",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "Cable Management & Electrical Isolation",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "61508e0",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>Custom routing where standard metal trays don't fit — and where non-conductivity matters.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "331cefe",
-                  "elType": "widget",
-                  "widgetType": "icon-list",
-                  "settings": {
-                    "icon_list": [
-                      {
-                        "text": "Underfloor cable troughs and overhead raceways",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "8aabd4"
+                    {
+                      "id": "358847b",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Hot aisle / cold aisle containment panels",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "ec98c1"
+                          },
+                          {
+                            "text": "Underfloor airflow baffles and return-air diverters",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "d61f51"
+                          },
+                          {
+                            "text": "Custom blanking panels and aisle end caps",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "8141b6"
+                          }
+                        ]
                       },
-                      {
-                        "text": "Power and fiber separation barriers",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "761714"
+                      "elements": []
+                    },
+                    {
+                      "id": "bdae2a0",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p><em>PP preferred — higher heat tolerance, stiffer under continuous load.</em></p>"
                       },
-                      {
-                        "text": "Custom cable waterfalls and drop boxes",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "cf22a8"
-                      }
-                    ]
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "b1c21d4",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p><em>PP preferred — non-conductive, low static buildup, clean installs.</em></p>"
-                  },
-                  "elements": []
-                }
-              ],
-              "isInner": true
-            }
-          ]
-        },
-        {
-          "id": "a80bd18",
-          "elType": "container",
-          "isInner": true,
-          "settings": {
-            "flex_direction": "row",
-            "content_width": "full",
-            "flex_gap": {
-              "unit": "px",
-              "size": 24,
-              "sizes": []
-            }
-          },
-          "elements": [
-            {
-              "id": "57beb80",
-              "elType": "container",
-              "settings": {
-                "content_width": "boxed",
-                "flex_direction": "column"
-              },
-              "elements": [
-                {
-                  "id": "6835361",
-                  "elType": "widget",
-                  "widgetType": "image",
-                  "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
-                    },
-                    "alt": "Raised Floor & Access Components",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "fc359ca",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "a136ff8",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "Raised Floor & Access Components",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "2b884b2",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>Retrofit-heavy facilities reorder these constantly. We fabricate to the exact footprint every time.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "7a541ab",
-                  "elType": "widget",
-                  "widgetType": "icon-list",
-                  "settings": {
-                    "icon_list": [
-                      {
-                        "text": "Custom cut-out floor panels and removable access covers",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "534eae"
-                      },
-                      {
-                        "text": "Load-spreading plates and pedestal guards",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "f6f3d5"
-                      },
-                      {
-                        "text": "Edge trims for saw-cut tiles and floor openings",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "b87195"
-                      }
-                    ]
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "fa8ba0c",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p><em>HDPE for impact resistance. PP for load stability.</em></p>"
-                  },
-                  "elements": []
-                }
-              ],
-              "isInner": true
-            },
-            {
-              "id": "3c4f8e2",
-              "elType": "container",
-              "settings": {
-                "content_width": "boxed",
-                "flex_direction": "column"
-              },
-              "elements": [
-                {
-                  "id": "bb9243a",
-                  "elType": "widget",
-                  "widgetType": "image",
-                  "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
-                    },
-                    "alt": "Battery Room & UPS Infrastructure",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "fc9a37e",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "a4c7b15",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "Battery Room & UPS Infrastructure",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "e5a0306",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>High compliance requirements. High chemical risk. No room for error — which is exactly why metal doesn't belong here.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "8ba9a16",
-                  "elType": "widget",
-                  "widgetType": "icon-list",
-                  "settings": {
-                    "icon_list": [
-                      {
-                        "text": "Acid containment trays and battery rack liners",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "84b8a5"
-                      },
-                      {
-                        "text": "Neutralization sump boxes",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "1084af"
-                      },
-                      {
-                        "text": "Ventilation ducting for battery and UPS rooms",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "f4b6d6"
-                      }
-                    ]
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "7365667",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p><em>PP only — acid-resistant, fully welded seams, zero metal inserts.</em></p>"
-                  },
-                  "elements": []
-                }
-              ],
-              "isInner": true
-            },
-            {
-              "id": "b98ed4b",
-              "elType": "container",
-              "settings": {
-                "content_width": "boxed",
-                "flex_direction": "column"
-              },
-              "elements": [
-                {
-                  "id": "117451e",
-                  "elType": "widget",
-                  "widgetType": "image",
-                  "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
-                    },
-                    "alt": "DEF / Urea Tanks for Generator Sets",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "dac393e",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "1916a17",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "DEF / Urea Tanks for Generator Sets",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "e1344fb",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>Already manufactured by CPF and deployed in data centers nationwide through major OEM gen-set platforms. CPF manufactures DEF/Urea tanks for major OEM gen-set platforms already running in data centers across the U.S. Proven. Deployed. Ready for your project.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "35795b5",
-                  "elType": "widget",
-                  "widgetType": "button",
-                  "settings": {
-                    "text": "See Our DEF Tank Capabilities →",
-                    "link": {
-                      "url": "#proven",
-                      "is_external": "",
-                      "nofollow": "",
-                      "custom_attributes": ""
+                      "elements": []
                     }
-                  },
-                  "elements": []
+                  ],
+                  "isInner": true
                 }
               ],
               "isInner": true
-            }
-          ]
-        },
-        {
-          "id": "0f2c07c",
-          "elType": "container",
-          "isInner": true,
-          "settings": {
-            "flex_direction": "row",
-            "content_width": "full",
-            "flex_gap": {
-              "unit": "px",
-              "size": 24,
-              "sizes": []
-            }
-          },
-          "elements": [
+            },
             {
-              "id": "18bb902",
+              "id": "6b1a9fc",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -1186,94 +757,637 @@
               },
               "elements": [
                 {
-                  "id": "6050254",
-                  "elType": "widget",
-                  "widgetType": "image",
+                  "id": "0024dfc",
+                  "elType": "container",
                   "settings": {
-                    "image": {
-                      "url": "",
-                      "id": ""
-                    },
-                    "alt": "Custom Enclosures & Equipment Guards",
-                    "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                    "content_width": "boxed",
+                    "flex_direction": "column"
                   },
-                  "elements": []
-                },
-                {
-                  "id": "478d6f8",
-                  "elType": "widget",
-                  "widgetType": "icon",
-                  "settings": {
-                    "selected_icon": {
-                      "value": "fas fa-check",
-                      "library": "fa-solid"
-                    },
-                    "view": "stacked",
-                    "shape": "rounded"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "5290dbe",
-                  "elType": "widget",
-                  "widgetType": "heading",
-                  "settings": {
-                    "title": "Custom Enclosures & Equipment Guards",
-                    "header_size": "h4"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "32c03cb",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
-                  "settings": {
-                    "editor": "<p>If it needs to exist and doesn't come in a catalog — we build it.</p>"
-                  },
-                  "elements": []
-                },
-                {
-                  "id": "74bf0e6",
-                  "elType": "widget",
-                  "widgetType": "icon-list",
-                  "settings": {
-                    "icon_list": [
-                      {
-                        "text": "Fan guards and pump splash shields",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
+                  "elements": [
+                    {
+                      "id": "65e80fb",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
                         },
-                        "_id": "49b432"
+                        "alt": "Drip Trays & Spill Containment",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
                       },
-                      {
-                        "text": "Custom sensor and monitoring enclosures",
+                      "elements": []
+                    },
+                    {
+                      "id": "c00044b",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
                         "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
                         },
-                        "_id": "5ee0c6"
+                        "view": "stacked",
+                        "shape": "rounded"
                       },
-                      {
-                        "text": "Temporary retrofit housings and removable access panels",
-                        "selected_icon": {
-                          "value": "far fa-check-circle",
-                          "library": "fa-regular"
-                        },
-                        "_id": "355aff"
-                      }
-                    ]
-                  },
-                  "elements": []
-                },
+                      "elements": []
+                    },
+                    {
+                      "id": "70572de",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Drip Trays & Spill Containment",
+                        "header_size": "h4"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "610f1ee",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>Welded seams. Leak-tested before delivery. No corrosion. No compliance risk.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "234d197",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "CRAC / CRAH unit drip trays",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "dc80d3"
+                          },
+                          {
+                            "text": "Condensate collection pans",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "f9aec7"
+                          },
+                          {
+                            "text": "Chemical spill containment for chiller and pump areas",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "185bb4"
+                          }
+                        ]
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "4c327ff",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p><em>HDPE for impact-heavy zones. PP for chemical-intensive environments.</em></p>"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "6db784b",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
                 {
-                  "id": "75f91f8",
-                  "elType": "widget",
-                  "widgetType": "text-editor",
+                  "id": "adbf1a8",
+                  "elType": "container",
                   "settings": {
-                    "editor": "<p><em>Clear PP available where visibility into the enclosure is required.</em></p>"
+                    "content_width": "boxed",
+                    "flex_direction": "column"
                   },
-                  "elements": []
+                  "elements": [
+                    {
+                      "id": "bdaf08b",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
+                        },
+                        "alt": "Cable Management & Electrical Isolation",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "6ac474e",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "rounded"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "7ccf8e6",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Cable Management & Electrical Isolation",
+                        "header_size": "h4"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "7d6930c",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>Custom routing where standard metal trays don't fit — and where non-conductivity matters.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "01e23a2",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Underfloor cable troughs and overhead raceways",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "27c425"
+                          },
+                          {
+                            "text": "Power and fiber separation barriers",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "421067"
+                          },
+                          {
+                            "text": "Custom cable waterfalls and drop boxes",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "8fb261"
+                          }
+                        ]
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "a1b0fa7",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p><em>PP preferred — non-conductive, low static buildup, clean installs.</em></p>"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "8bbe1ba",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "363d71d",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "boxed",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "3efabb9",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
+                        },
+                        "alt": "Raised Floor & Access Components",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "26ef75d",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "rounded"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "3eda04a",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Raised Floor & Access Components",
+                        "header_size": "h4"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "c356364",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>Retrofit-heavy facilities reorder these constantly. We fabricate to the exact footprint every time.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "e036dd3",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Custom cut-out floor panels and removable access covers",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "cdd9d9"
+                          },
+                          {
+                            "text": "Load-spreading plates and pedestal guards",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "49aa21"
+                          },
+                          {
+                            "text": "Edge trims for saw-cut tiles and floor openings",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "02f03d"
+                          }
+                        ]
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "f636464",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p><em>HDPE for impact resistance. PP for load stability.</em></p>"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "c732d87",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "2b49bdc",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "boxed",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "c217b47",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
+                        },
+                        "alt": "Battery Room & UPS Infrastructure",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "e3d24f3",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "rounded"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "2594b7d",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Battery Room & UPS Infrastructure",
+                        "header_size": "h4"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "ad74ebf",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>High compliance requirements. High chemical risk. No room for error — which is exactly why metal doesn't belong here.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "59c8bdb",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Acid containment trays and battery rack liners",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "f9fc24"
+                          },
+                          {
+                            "text": "Neutralization sump boxes",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "5eba93"
+                          },
+                          {
+                            "text": "Ventilation ducting for battery and UPS rooms",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "70b4c3"
+                          }
+                        ]
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "6fb34c1",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p><em>PP only — acid-resistant, fully welded seams, zero metal inserts.</em></p>"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "aba0d6a",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "3f0737f",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "boxed",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "d094f3e",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
+                        },
+                        "alt": "DEF / Urea Tanks for Generator Sets",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "e4b5157",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "rounded"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "3a1e14e",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "DEF / Urea Tanks for Generator Sets",
+                        "header_size": "h4"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "95e6da7",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>Already manufactured by CPF and deployed in data centers nationwide through major OEM gen-set platforms. CPF manufactures DEF/Urea tanks for major OEM gen-set platforms already running in data centers across the U.S. Proven. Deployed. Ready for your project.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "7084efe",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "text": "See Our DEF Tank Capabilities →",
+                        "link": {
+                          "url": "#proven",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "c68c7f8",
+              "elType": "container",
+              "settings": {
+                "content_width": "boxed",
+                "flex_direction": "column"
+              },
+              "elements": [
+                {
+                  "id": "75ff4ad",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "boxed",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "3817c2d",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
+                        },
+                        "alt": "Custom Enclosures & Equipment Guards",
+                        "_placeholder_note": "Reemplazar con la imagen desde la Biblioteca de Medios"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "002e28d",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "rounded"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "abfb025",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Custom Enclosures & Equipment Guards",
+                        "header_size": "h4"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "fc0d550",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>If it needs to exist and doesn't come in a catalog — we build it.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "1b52769",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Fan guards and pump splash shields",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "b1584a"
+                          },
+                          {
+                            "text": "Custom sensor and monitoring enclosures",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "3b0ba1"
+                          },
+                          {
+                            "text": "Temporary retrofit housings and removable access panels",
+                            "selected_icon": {
+                              "value": "far fa-check-circle",
+                              "library": "fa-regular"
+                            },
+                            "_id": "222632"
+                          }
+                        ]
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "33d73ae",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p><em>Clear PP available where visibility into the enclosure is required.</em></p>"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
                 }
               ],
               "isInner": true
@@ -1281,7 +1395,7 @@
           ]
         },
         {
-          "id": "fc1a59b",
+          "id": "301c9f4",
           "elType": "widget",
           "widgetType": "button",
           "settings": {
@@ -1298,7 +1412,7 @@
       ]
     },
     {
-      "id": "32ed709",
+      "id": "818a997",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -1308,7 +1422,7 @@
       },
       "elements": [
         {
-          "id": "d8c0a4f",
+          "id": "392ac6b",
           "elType": "container",
           "settings": {
             "content_width": "boxed",
@@ -1316,7 +1430,7 @@
           },
           "elements": [
             {
-              "id": "6f4f720",
+              "id": "3a27fde",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -1334,7 +1448,7 @@
               "elements": []
             },
             {
-              "id": "4c3e076",
+              "id": "df4d255",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -1344,14 +1458,14 @@
               "elements": []
             },
             {
-              "id": "e260b6e",
+              "id": "f396c36",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {},
               "elements": []
             },
             {
-              "id": "7f3dd26",
+              "id": "9cb851c",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1360,7 +1474,7 @@
               "elements": []
             },
             {
-              "id": "c75fe58",
+              "id": "743f2ae",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1369,7 +1483,7 @@
               "elements": []
             },
             {
-              "id": "11c91df",
+              "id": "4b26202",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1378,7 +1492,7 @@
               "elements": []
             },
             {
-              "id": "1f1da56",
+              "id": "50a9511",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1387,7 +1501,7 @@
               "elements": []
             },
             {
-              "id": "a98b5ae",
+              "id": "f57c18f",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1399,7 +1513,7 @@
           "isInner": true
         },
         {
-          "id": "9afdc66",
+          "id": "977726d",
           "elType": "widget",
           "widgetType": "icon-list",
           "settings": {
@@ -1410,7 +1524,7 @@
                   "value": "far fa-check-circle",
                   "library": "fa-regular"
                 },
-                "_id": "a9a2c0"
+                "_id": "b3f92a"
               },
               {
                 "text": "Established integration with leading generator manufacturers",
@@ -1418,7 +1532,7 @@
                   "value": "far fa-check-circle",
                   "library": "fa-regular"
                 },
-                "_id": "8e38b1"
+                "_id": "be62d5"
               },
               {
                 "text": "A fabricator who understands the standards data centers demand",
@@ -1426,7 +1540,7 @@
                   "value": "far fa-check-circle",
                   "library": "fa-regular"
                 },
-                "_id": "04a09d"
+                "_id": "8def87"
               },
               {
                 "text": "Ready for hyperscale, colocation, and edge deployments",
@@ -1434,14 +1548,14 @@
                   "value": "far fa-check-circle",
                   "library": "fa-regular"
                 },
-                "_id": "a41dea"
+                "_id": "ba191f"
               }
             ]
           },
           "elements": []
         },
         {
-          "id": "3abae54",
+          "id": "d49972f",
           "elType": "widget",
           "widgetType": "button",
           "settings": {
@@ -1456,7 +1570,7 @@
           "elements": []
         },
         {
-          "id": "8eb7d33",
+          "id": "8fcee53",
           "elType": "widget",
           "widgetType": "image",
           "settings": {
@@ -1472,7 +1586,7 @@
       ]
     },
     {
-      "id": "5233bb9",
+      "id": "b4a222e",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -1480,7 +1594,7 @@
       },
       "elements": [
         {
-          "id": "e8580b9",
+          "id": "0188ca6",
           "elType": "container",
           "settings": {
             "content_width": "boxed",
@@ -1488,7 +1602,7 @@
           },
           "elements": [
             {
-              "id": "4e862b0",
+              "id": "7d16fed",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -1506,7 +1620,7 @@
               "elements": []
             },
             {
-              "id": "fdf7ebb",
+              "id": "60d4595",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -1516,14 +1630,14 @@
               "elements": []
             },
             {
-              "id": "04d4bda",
+              "id": "1e37af0",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {},
               "elements": []
             },
             {
-              "id": "75c5f80",
+              "id": "c0b51e7",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1535,7 +1649,7 @@
           "isInner": true
         },
         {
-          "id": "820cde4",
+          "id": "dd49eab",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1549,7 +1663,7 @@
           },
           "elements": [
             {
-              "id": "6bb635e",
+              "id": "5434b0b",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -1557,7 +1671,7 @@
               },
               "elements": [
                 {
-                  "id": "2b63965",
+                  "id": "99b5d65",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -1571,7 +1685,7 @@
                   "elements": []
                 },
                 {
-                  "id": "03dbeb6",
+                  "id": "f3800a9",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -1581,7 +1695,7 @@
                   "elements": []
                 },
                 {
-                  "id": "2a7db89",
+                  "id": "d764867",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -1593,7 +1707,7 @@
               "isInner": true
             },
             {
-              "id": "f2be6ac",
+              "id": "aaf0416",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -1601,7 +1715,7 @@
               },
               "elements": [
                 {
-                  "id": "deadec3",
+                  "id": "430c910",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -1615,7 +1729,7 @@
                   "elements": []
                 },
                 {
-                  "id": "951c3bd",
+                  "id": "0f33e76",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -1625,7 +1739,7 @@
                   "elements": []
                 },
                 {
-                  "id": "0019005",
+                  "id": "882f5fa",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -1637,7 +1751,7 @@
               "isInner": true
             },
             {
-              "id": "0fde089",
+              "id": "0c27c0c",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -1645,7 +1759,7 @@
               },
               "elements": [
                 {
-                  "id": "4cd1864",
+                  "id": "430a702",
                   "elType": "widget",
                   "widgetType": "icon",
                   "settings": {
@@ -1659,7 +1773,7 @@
                   "elements": []
                 },
                 {
-                  "id": "d49fd51",
+                  "id": "b642f20",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -1669,7 +1783,7 @@
                   "elements": []
                 },
                 {
-                  "id": "8483907",
+                  "id": "1e42a8a",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -1683,7 +1797,7 @@
           ]
         },
         {
-          "id": "448723f",
+          "id": "0c3aa29",
           "elType": "widget",
           "widgetType": "button",
           "settings": {
@@ -1700,7 +1814,7 @@
       ]
     },
     {
-      "id": "df8b606",
+      "id": "6af867e",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -1710,7 +1824,7 @@
       },
       "elements": [
         {
-          "id": "d73e7b3",
+          "id": "1c22f39",
           "elType": "container",
           "settings": {
             "content_width": "boxed",
@@ -1718,7 +1832,7 @@
           },
           "elements": [
             {
-              "id": "0361aa8",
+              "id": "50ce499",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -1736,7 +1850,7 @@
               "elements": []
             },
             {
-              "id": "79ee928",
+              "id": "593c198",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -1746,14 +1860,14 @@
               "elements": []
             },
             {
-              "id": "d3685d8",
+              "id": "fac96b8",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {},
               "elements": []
             },
             {
-              "id": "2f68a4b",
+              "id": "ade5ab6",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1762,7 +1876,7 @@
               "elements": []
             },
             {
-              "id": "4484d79",
+              "id": "a66892e",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1771,7 +1885,7 @@
               "elements": []
             },
             {
-              "id": "fd161ef",
+              "id": "991149d",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
@@ -1783,7 +1897,7 @@
           "isInner": true
         },
         {
-          "id": "a06d54b",
+          "id": "1c7e49b",
           "elType": "widget",
           "widgetType": "button",
           "settings": {
@@ -1800,7 +1914,7 @@
       ]
     },
     {
-      "id": "6cffb6d",
+      "id": "c412358",
       "elType": "container",
       "settings": {
         "content_width": "boxed",
@@ -1810,7 +1924,7 @@
       },
       "elements": [
         {
-          "id": "99ac1ad",
+          "id": "1058cce",
           "elType": "widget",
           "widgetType": "image",
           "settings": {
@@ -1824,7 +1938,7 @@
           "elements": []
         },
         {
-          "id": "6d4f44b",
+          "id": "e2d976f",
           "elType": "container",
           "isInner": true,
           "settings": {
@@ -1833,7 +1947,7 @@
           },
           "elements": [
             {
-              "id": "2230cc5",
+              "id": "0114d08",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -1841,7 +1955,7 @@
               },
               "elements": [
                 {
-                  "id": "b771139",
+                  "id": "04ad22d",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -1851,7 +1965,7 @@
                   "elements": []
                 },
                 {
-                  "id": "34bb1c4",
+                  "id": "cdb3ce3",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -1860,7 +1974,7 @@
                   "elements": []
                 },
                 {
-                  "id": "b30f3aa",
+                  "id": "6d7d1c7",
                   "elType": "widget",
                   "widgetType": "text-editor",
                   "settings": {
@@ -1872,7 +1986,7 @@
               "isInner": true
             },
             {
-              "id": "d97eb78",
+              "id": "7e8d45f",
               "elType": "container",
               "settings": {
                 "content_width": "boxed",
@@ -1880,7 +1994,7 @@
               },
               "elements": [
                 {
-                  "id": "f5b3710",
+                  "id": "a4d661f",
                   "elType": "widget",
                   "widgetType": "heading",
                   "settings": {
@@ -1890,7 +2004,7 @@
                   "elements": []
                 },
                 {
-                  "id": "7cf44f2",
+                  "id": "0ba20ca",
                   "elType": "widget",
                   "widgetType": "form",
                   "settings": {
@@ -1900,21 +2014,21 @@
                         "custom_id": "first_name",
                         "placeholder": "First Name",
                         "width": "50",
-                        "_id": "2307a8",
+                        "_id": "66bb8e",
                         "required": "true"
                       },
                       {
                         "custom_id": "last_name",
                         "placeholder": "Last Name",
                         "width": "50",
-                        "_id": "9f23d0",
+                        "_id": "d45862",
                         "required": "true"
                       },
                       {
                         "custom_id": "email",
                         "placeholder": "Email",
                         "width": "50",
-                        "_id": "bdb42e",
+                        "_id": "4137d3",
                         "required": "true",
                         "field_type": "email"
                       },
@@ -1922,14 +2036,14 @@
                         "custom_id": "phone",
                         "placeholder": "Phone",
                         "width": "50",
-                        "_id": "bc3b0a",
+                        "_id": "8a70da",
                         "field_type": "tel"
                       },
                       {
                         "custom_id": "message",
                         "placeholder": "Tell me about your project.",
                         "width": "100",
-                        "_id": "456713",
+                        "_id": "3750e5",
                         "field_type": "textarea"
                       }
                     ],
