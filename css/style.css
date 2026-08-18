@@ -18,13 +18,13 @@
   --font-heading: 'Hind', -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-body: 'Hind', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 18px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
 
-  --shadow-sm: 0 2px 8px rgba(19, 19, 19, 0.06);
-  --shadow-md: 0 12px 32px rgba(19, 19, 19, 0.10);
-  --shadow-lg: 0 24px 60px rgba(19, 19, 19, 0.18);
+  --shadow-sm: 0 1px 4px rgba(19, 19, 19, 0.06);
+  --shadow-md: 0 6px 18px rgba(19, 19, 19, 0.08);
+  --shadow-lg: 0 12px 32px rgba(19, 19, 19, 0.14);
 
   --container: 1240px;
 }
@@ -114,22 +114,20 @@ h2.h2 {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  padding: 15px 30px;
-  border-radius: 999px;
+  padding: 14px 28px;
+  border-radius: var(--radius-sm);
   font-weight: 700;
   font-size: 15px;
   letter-spacing: 0.2px;
   border: 2px solid transparent;
-  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease, color 0.15s ease;
+  transition: box-shadow 0.15s ease, background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   white-space: nowrap;
 }
-.btn:hover { transform: translateY(-2px); }
 .btn-primary {
   background: var(--cpf-yellow);
   color: var(--cpf-black);
-  box-shadow: 0 10px 24px rgba(247, 181, 0, 0.35);
 }
-.btn-primary:hover { background: var(--cpf-yellow-dark); box-shadow: 0 14px 30px rgba(247, 181, 0, 0.45); }
+.btn-primary:hover { background: var(--cpf-yellow-dark); }
 .btn-dark {
   background: var(--cpf-black);
   color: var(--cpf-white);
@@ -259,7 +257,7 @@ h2.h2 {
   font-size: 13px;
   font-weight: 700;
   padding: 8px 14px;
-  border-radius: 999px;
+  border-radius: var(--radius-sm);
   letter-spacing: 0.3px;
 }
 
@@ -357,14 +355,14 @@ h2.h2 {
 .icon-badge {
   width: 52px;
   height: 52px;
-  border-radius: 12px;
-  background: var(--cpf-black);
+  border-radius: var(--radius-md);
+  background: var(--cpf-yellow);
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 18px;
 }
-.icon-badge svg { width: 26px; height: 26px; stroke: var(--cpf-yellow); }
+.icon-badge svg { width: 26px; height: 26px; stroke: var(--cpf-black); }
 .icon-card h4 {
   font-size: 19px;
   color: var(--cpf-black);
@@ -421,17 +419,22 @@ h2.h2 {
 .app-card ul.bullets li {
   font-size: 14px;
   color: var(--cpf-gray-700);
-  padding-left: 20px;
+  padding-left: 24px;
   position: relative;
-  margin-bottom: 7px;
+  margin-bottom: 8px;
 }
 .app-card ul.bullets li::before {
-  content: "";
+  content: "\2713";
   position: absolute;
-  left: 0; top: 8px;
-  width: 8px; height: 8px;
+  left: 0; top: 0;
+  width: 16px; height: 16px;
+  border-radius: 50%;
   background: var(--cpf-yellow);
-  border-radius: 2px;
+  color: var(--cpf-black);
+  font-size: 10px;
+  font-weight: 900;
+  line-height: 16px;
+  text-align: center;
 }
 .app-card .material-note {
   margin-top: auto;
