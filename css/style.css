@@ -363,13 +363,13 @@ h2.h2 {
   width: 52px;
   height: 52px;
   border-radius: var(--radius-md);
-  background: var(--cpf-yellow);
+  background: var(--cpf-black);
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 18px;
 }
-.icon-badge svg { width: 26px; height: 26px; stroke: var(--cpf-black); }
+.icon-badge svg { width: 26px; height: 26px; stroke: var(--cpf-yellow); }
 .icon-card h4 {
   font-size: 19px;
   color: var(--cpf-black);
@@ -632,6 +632,12 @@ ul.bullets li::before {
 .audience-card .icon-badge { margin-bottom: 18px; }
 .audience-card h4 { font-size: 18px; color: var(--cpf-black); margin-bottom: 8px; }
 .audience-card p { font-size: 14.5px; color: var(--cpf-gray-700); margin: 0; }
+.section--dark .audience-card {
+  background: var(--cpf-black-soft);
+  border-color: rgba(255,255,255,0.12);
+}
+.section--dark .audience-card h4 { color: var(--cpf-white); }
+.section--dark .audience-card p { color: var(--cpf-gray-300); }
 
 /* ==========================================================================
    Yellow CTA band (Section 7)
