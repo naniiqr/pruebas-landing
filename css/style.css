@@ -406,14 +406,32 @@ h2.h2 {
    Comparison table
    ========================================================================== */
 
-.video-wrap {
-  max-width: 900px;
-  margin: 0 auto;
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-  box-shadow: var(--shadow-md);
+.video-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 480px;
 }
-.video-wrap video { width: 100%; display: block; aspect-ratio: 16/9; background: var(--cpf-black); }
+.video-split-media { position: relative; overflow: hidden; background: var(--cpf-black); }
+.video-split-media video { width: 100%; height: 100%; display: block; object-fit: cover; }
+.video-split-copy {
+  background: var(--cpf-black);
+  color: var(--cpf-white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 70px;
+}
+.video-split-copy h3 {
+  font-size: clamp(24px, 2.8vw, 32px);
+  color: var(--cpf-white);
+  line-height: 1.15;
+}
+.video-split-copy p {
+  color: var(--cpf-gray-300);
+  margin-top: 16px;
+  font-size: 15px;
+  max-width: 420px;
+}
 
 .compare-table {
   border: 1px solid var(--cpf-gray-200);
@@ -768,6 +786,9 @@ ul.bullets li::before {
 
 @media (max-width: 980px) {
   .hero-grid { grid-template-columns: 1fr; }
+  .video-split { grid-template-columns: 1fr; }
+  .video-split-media { aspect-ratio: 16/9; }
+  .video-split-copy { padding: 48px 28px; }
   .hero-media { order: -1; }
   .grid-4 { grid-template-columns: repeat(2, 1fr); }
   .app-card { flex-basis: 280px; }
