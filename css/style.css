@@ -206,6 +206,14 @@ button{ font-family: inherit; cursor: pointer; }
   line-height: 1;
   flex-shrink: 0;
 }
+.logo-img{
+  display: block;
+  height: 56px;
+  width: 56px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+.footer-grid .logo-img{ height: 72px; width: 72px; }
 .logo .mark{
   font-family: var(--font-display);
   font-style: italic;
@@ -597,6 +605,8 @@ section{ padding: 96px 0; }
 .contact-item strong{ display:block; font-size: 13px; text-transform: uppercase; letter-spacing:.06em; color: var(--ink-soft); margin-bottom: 4px; }
 .contact-item p, .contact-item a{ font-size: 16px; }
 .contact-item a:hover{ color: var(--mauve-deep); }
+.location{ padding: 88px 0; background: var(--paper); }
+.location .section-head{ margin-bottom: 32px; }
 .map-frame{
   border: 1px solid var(--line);
   overflow: hidden;
@@ -672,6 +682,18 @@ section{ padding: 96px 0; }
   align-items:flex-end;
   overflow: hidden;
 }
+.page-hero--home{ height: 44vh; min-height: 300px; }
+.page-hero--home::after{ background: linear-gradient(0deg, rgba(23,19,15,.35) 0%, rgba(23,19,15,0) 40%); }
+.home-intro{ padding: 56px 0 8px; background: var(--white); }
+.home-intro .wrap{ max-width: 760px; text-align: center; }
+.home-intro-lead{
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(20px, 2.6vw, 28px);
+  color: var(--ink);
+  line-height: 1.35;
+}
+.home-intro-sub{ margin-top: 14px; font-size: 15.5px; color: var(--ink-soft); }
 .page-hero img{
   position:absolute; inset:0; width:100%; height:100%; object-fit: cover;
 }
