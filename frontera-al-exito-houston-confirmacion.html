@@ -328,14 +328,7 @@ footer { padding: 24px 0 20px; border-top: 1px solid rgba(253,250,244,.05); marg
               <svg class="event-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"><rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="1.8"/><path d="M3 9h18M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
               <div>
                 <div class="event-text">Jueves 3 de septiembre, 2026</div>
-                <div class="event-sub">6:00 PM · Houston Marriott Uptown by the Galleria</div>
-              </div>
-            </div>
-            <div class="event-row">
-              <svg class="event-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 21s7-7.58 7-12A7 7 0 1 0 5 9c0 4.42 7 12 7 12Z" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="9" r="2.5" stroke="currentColor" stroke-width="1.8"/></svg>
-              <div>
-                <div class="event-text">Houston Marriott Uptown by the Galleria</div>
-                <div class="event-sub">1750 W Loop S, Houston, TX 77027</div>
+                <div class="event-sub">6:00 PM · 1750 W Loop S, Houston, TX 77027</div>
               </div>
             </div>
           </div>
@@ -491,7 +484,7 @@ footer { padding: 24px 0 20px; border-top: 1px solid rgba(253,250,244,.05); marg
 
     // Actualiza el texto visible del evento y del correo con la fecha/sede confirmada
     var eventSub = document.querySelector(".event-sub");
-    if (eventSub) eventSub.textContent = "6:00 PM · " + VENUE_NAME;
+    if (eventSub) eventSub.textContent = "6:00 PM · " + (VENUE_ADDRESS || VENUE_NAME);
 
     var venueNote = document.getElementById("venue-note");
     if (venueNote) {
